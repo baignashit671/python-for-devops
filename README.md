@@ -2,18 +2,18 @@
 
 <img width="1141" alt="Screenshot 2023-10-12 at 9 57 40 PM" src="https://github.com/iam-veeramalla/python-for-devops/assets/43399466/d70f5fe2-0ba3-449d-b41f-413a38fc4584">
 
-## Day 1: Introduction to Python, Installation, and Configuration
+## Day 1: Introduction to Python, Installation, and Configuration:
 - Introduction to Python and its role in DevOps.
 - Installing Python and setting up a development environment.
 - Writing your first Python program.
 
-## Day 2: Intro to Datatypes, Working with Strings and Numbers
+## Day 2: Intro to Datatypes, Working with Strings and Numbers:
 - String data type in Python.
 - String manipulation and formatting.
 - Regular expressions for text processing.
 - Numeric data types in Python (int, float).
  
-## Day 3: Keywords and Variables
+## Day 3: Keywords and Variables:
 - Understanding variables in Python.
 - Variable scope and lifetime.
 - Variable naming conventions and best practices.
