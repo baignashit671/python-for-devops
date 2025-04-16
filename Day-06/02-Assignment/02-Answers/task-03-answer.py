@@ -1,3 +1,8 @@
+# Task 3: Logical Operators
+# 1. Create two boolean variables, x and y.
+# 2. Use logical operators (and, or, not) to perform various logical operations on x and y.
+# 3. Print the results.
+
 x = True
 y = False
 
