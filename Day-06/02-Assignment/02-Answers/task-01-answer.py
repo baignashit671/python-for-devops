@@ -1,7 +1,7 @@
 # Task 1: Arithmetic Operators
-# Create two variables a and b with numeric values.
-# Calculate the sum, difference, product, and quotient of a and b.
-# Print the results.
+# 1. Create two variables a and b with numeric values.
+# 2. Calculate the sum, difference, product, and quotient of a and b.
+# 3. Print the results.
 
 a = 10
 b = 5
