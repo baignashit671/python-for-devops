@@ -25,7 +25,9 @@ print("b is not my_list:", is_not_same)
 print("30 in my_list:", contains_30)
 print("100 not in my_list:", not_contains_100)
 
+#########################################################################################################################
 ### Output:
+#########################################################################################################################
 @baignashit671 ➜ /workspaces/python-for-devops/python (main) $ python task6.py 
 a is my_list: True
 b is not my_list: True
