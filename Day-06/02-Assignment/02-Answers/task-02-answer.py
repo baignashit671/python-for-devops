@@ -1,3 +1,7 @@
+# Task 2: Comparison Operators
+# 1. Compare the values of a and b using the following comparison operators: <, >, <=, >=, ==, and !=.
+# 2. Print the results of each comparison.
+
 a = 10
 b = 5
 
