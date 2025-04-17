@@ -2,7 +2,8 @@
 
 1. **Server Provisioning and Configuration:**
 
-   DevOps engineers use "for" loops when provisioning multiple servers or virtual machines with the same configuration. For example, when setting up monitoring agents on multiple servers:
+   DevOps engineers use "for" loops when provisioning multiple servers or virtual machines with the same configuration.
+   For example, when setting up monitoring agents on multiple servers:
 
    ```bash
    servers=("server1" "server2" "server3")
@@ -11,7 +12,7 @@
    done
    ```
 
-2. **Deploying Configurations to Multiple Environments:**
+3. **Deploying Configurations to Multiple Environments:**
 
    When deploying configurations to different environments (e.g. development, staging, production), DevOps engineers can use a "for" loop to apply the same configuration changes to each environment:
 
@@ -22,7 +23,7 @@
    done
    ```
 
-3. **Backup and Restore Operations:**
+4. **Backup and Restore Operations:**
 
    Automating backup and restore operations is a common use case. DevOps engineers can use "for" loops to create backups for multiple databases or services and later restore them as needed.
 
@@ -33,7 +34,7 @@
    done
    ```
 
-4. **Log Rotation and Cleanup:**
+5. **Log Rotation and Cleanup:**
 
    DevOps engineers use "for" loops to manage log files, rotate logs, and clean up older log files to save disk space.
 
@@ -44,9 +45,10 @@
    done
    ```
 
-5. **Monitoring and Reporting:**
+6. **Monitoring and Reporting:**
 
-   In scenarios where you need to gather data or perform checks on multiple systems, a "for" loop is handy. For example, monitoring server resources across multiple machines:
+   In scenarios where you need to gather data or perform checks on multiple systems, a "for" loop is handy.
+   For example, monitoring server resources across multiple machines:
 
    ```bash
    servers=("server1" "server2" "server3")
@@ -55,7 +57,7 @@
    done
    ```
 
-6. **Managing Cloud Resources:**
+8. **Managing Cloud Resources:**
 
    When working with cloud infrastructure, DevOps engineers can use "for" loops to manage resources like virtual machines, databases, and storage across different cloud providers.
 
