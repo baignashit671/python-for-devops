@@ -13,7 +13,7 @@
 
 2. **Deploying Configurations to Multiple Environments:**
 
-   When deploying configurations to different environments (e.g., development, staging, production), DevOps engineers can use a "for" loop to apply the same configuration changes to each environment:
+   When deploying configurations to different environments (e.g. development, staging, production), DevOps engineers can use a "for" loop to apply the same configuration changes to each environment:
 
    ```bash
    environments=("dev" "staging" "prod")
